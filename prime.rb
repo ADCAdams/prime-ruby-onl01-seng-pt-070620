@@ -10,8 +10,8 @@ def prime?(num)
     if num % n == 0
       puts("false")
       return false
-       n += 1
      end
+     n += 1
   end
   puts("prime")
   true
