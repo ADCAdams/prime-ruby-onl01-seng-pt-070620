@@ -1,7 +1,7 @@
 # Add  code here!
 
 def prime?(num)
-
+  puts (3/1.5)
   num = num.abs
 
    n = 2
