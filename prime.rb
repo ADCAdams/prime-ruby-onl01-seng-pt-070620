@@ -5,7 +5,7 @@ def prime?(num)
   num = num.abs
   puts num 
    n = 2
-  while n < (num)
+  while n < (num/1.5)
   puts(num % n)
     if num % n == 0
       puts("false")
