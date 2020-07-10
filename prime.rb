@@ -18,4 +18,4 @@ def prime?(num)
 end
 
 
-prime?(-9)
+#prime?(-9)
